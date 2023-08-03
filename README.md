@@ -1,4 +1,6 @@
-# Test-API
+# Test-GoAPI
+
+[How to Install GoLang on GoDaddy Server](https://www.geeksforgeeks.org/how-to-install-golang-on-godaddy-server/)
 
 https://victorscholz.medium.com/hosting-a-json-api-on-github-pages-47b402f72603
 
